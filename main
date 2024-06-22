@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Your Name</h1>
+            <nav>
+                <ul>
+                    <li><a href="#profile">Profile</a></li>
+                    <li><a href="#achievements">Achievements</a></li>
+                    <li><a href="#goals">Goals</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="profile">
+        <div class="container">
+            <h2>Profile</h2>
+            <p>Insert your profile information here.</p>
+        </div>
+    </section>
+
+    <section id="achievements">
+        <div class="container">
+            <h2>Achievements</h2>
+            <ul>
+                <li>Your achievements here</li>
+                <li>Another achievement</li>
+                <!-- Add more achievements as needed -->
+            </ul>
+        </div>
+    </section>
+
+    <section id="goals">
+        <div class="container">
+            <h2>Goals</h2>
+            <p>Your goals and aspirations.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Your Name. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
